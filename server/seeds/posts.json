@@ -1,0 +1,148 @@
+[
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b1b"
+    },
+    "content": "Finally, I have a chance to show my work to the world.",
+    "tags": [],
+    "imgUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "authorId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "comments": [
+      {
+        "content": "Great job!",
+        "username": "eunchae",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      },
+      {
+        "content": "I can't wait to see more of your work!",
+        "username": "kazuha",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      }
+    ],
+    "likes": [
+      {
+        "username": "chaewon",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      },
+      {
+        "username": "eunchae",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      },
+      {
+        "username": "kazuha",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b1c"
+    },
+    "content": "I just finished my first project!",
+    "tags": ["progamming", "mobile development", "react native", "javascript"],
+    "imgUrl": null,
+    "authorId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "comments": [
+      {
+        "content": "Congratulations!",
+        "username": "yunjin",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      }
+    ],
+    "likes": [
+      {
+        "username": "yunjin",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      },
+      {
+        "username": "sakura",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b1d"
+    },
+    "content": "Let's go to the beach!",
+    "tags": ["beach", "vacation", "relaxation"],
+    "imgUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "authorId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "comments": [],
+    "likes": [
+      {
+        "username": "sakura",
+        "createdAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-02T00:00:00.000Z"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  }
+]

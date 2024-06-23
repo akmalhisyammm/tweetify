@@ -1,0 +1,336 @@
+[
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b1b"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b1d"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b1e"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b1f"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b20"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b21"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b22"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b23"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b24"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b25"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b26"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b27"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b28"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b29"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b2a"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b2b"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b2c"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b2d"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b2e"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "createdAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2024-06-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f4e5f4b1d7f6b001f6f3b2f"
+    },
+    "followingId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "followerId": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    }
+  }
+]

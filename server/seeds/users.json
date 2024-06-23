@@ -1,0 +1,57 @@
+[
+  {
+    "_id": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1b"
+    },
+    "name": "Sakura Miyawaki",
+    "username": "sakura",
+    "imgUrl": "https://altselection.com/wp-content/uploads/2021/09/miyawakisakura-contrat-hybe.jpeg",
+    "coverUrl": "https://i.pinimg.com/736x/31/ae/e4/31aee4f4cf921bc3e7f9466983fc5808.jpg",
+    "email": "sakura.miyawaki@example.com",
+    "password": "$2a$10$MI3JdVkb/8JggngNBT5aBee8orFPNfDeDt8z015VWRjyxue4/ugNu"
+  },
+  {
+    "_id": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1c"
+    },
+    "name": "Kim Chaewon",
+    "username": "chaewon",
+    "imgUrl": "https://www.j-14.com/wp-content/uploads/2023/09/chaewon-le-sserafim-.jpg?fit=800%2C533&quality=86&strip=all",
+    "coverUrl": null,
+    "email": "kim.chaewon@example.com",
+    "password": "$2a$10$MI3JdVkb/8JggngNBT5aBee8orFPNfDeDt8z015VWRjyxue4/ugNu"
+  },
+  {
+    "_id": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1d"
+    },
+    "name": "Huh Yunjin",
+    "username": "yunjin",
+    "imgUrl": "https://imgix.bustle.com/uploads/image/2023/8/18/a8f60118-9eb7-489a-a44f-f0c8d13e33b7-huh-yunjin-1_photo-credit-source-music-1.jpg?w=1200&h=1200&fit=crop&crop=faces&fm=jpg",
+    "coverUrl": null,
+    "email": "huh.yunjin@example.com",
+    "password": "$2a$10$MI3JdVkb/8JggngNBT5aBee8orFPNfDeDt8z015VWRjyxue4/ugNu"
+  },
+  {
+    "_id": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1e"
+    },
+    "name": "Kazuha Nakamura",
+    "username": "kazuha",
+    "imgUrl": "https://static.wikia.nocookie.net/le-sserafim/images/8/80/Kazuha_reveal_photo_%288%29.png/revision/latest?cb=20220407161540",
+    "coverUrl": "https://mmos.com/wp-content/uploads/2023/10/overwatch-2-le-sserafim-cartoon-art-banner.jpg",
+    "email": "kazuha.nakamura@example.com",
+    "password": "$2a$10$MI3JdVkb/8JggngNBT5aBee8orFPNfDeDt8z015VWRjyxue4/ugNu"
+  },
+  {
+    "_id": {
+      "$oid": "5f5f3b3b1f6b2b001e7f1b1f"
+    },
+    "name": "Hong Eunchae",
+    "username": "eunchae",
+    "imgUrl": null,
+    "coverUrl": null,
+    "email": "hong.eunchae@example.com",
+    "password": "$2a$10$MI3JdVkb/8JggngNBT5aBee8orFPNfDeDt8z015VWRjyxue4/ugNu"
+  }
+]

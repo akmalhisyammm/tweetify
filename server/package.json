@@ -1,0 +1,33 @@
+{
+  "name": "tweetify-server",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Muhammad Akmal Hisyam",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "graphql": "^16.8.1",
+    "ioredis": "^5.4.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H8-FSJS-P3S5/gc01-akmalhisyammm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/H8-FSJS-P3S5/gc01-akmalhisyammm/issues"
+  },
+  "homepage": "https://github.com/H8-FSJS-P3S5/gc01-akmalhisyammm#readme"
+}
