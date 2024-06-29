@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Tweetify",
-    "slug": "Tweetify",
+    "name": "tweetify",
+    "slug": "tweetify",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,7 +18,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "id.my.akmalhisyam.tweetify"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -28,14 +29,14 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "678c5fbb-5ace-4185-8681-36fed797ce75"
+        "projectId": "7361da9b-6162-4071-bc93-6462350b1ccc"
       }
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/678c5fbb-5ace-4185-8681-36fed797ce75"
+      "url": "https://u.expo.dev/7361da9b-6162-4071-bc93-6462350b1ccc"
     }
   }
 }
